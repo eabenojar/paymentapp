@@ -7,4 +7,3 @@ module.exports = {
     cookieKey: process.env.COOKIE_KEY
 };
 
-mongodb://mainprod:paymentprod1@ds239930.mlab.com:39930/payment-prod
